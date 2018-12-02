@@ -1,0 +1,33 @@
+@media screen and (max-width: 1200px) {
+
+    .content .section_title .row{
+        width: 100%;
+        padding: 0 40px;
+    }
+    footer .sub-row{
+        flex-direction: column;
+        
+    }
+    footer{
+        .col-lg-4,  .col-lg-3 {
+            width: 100%;
+            max-width: 100%;
+            }
+            .socials_btns, .sub_text{
+                text-align: center;
+            }
+            input{
+                padding: 5px 20px;
+            }
+    }
+}
+
+@media screen and (max-width: 990px) {
+footer .sub-row .sub_text{
+    text-align: center;
+    
+
+}
+
+}
+

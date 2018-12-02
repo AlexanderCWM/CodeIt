@@ -1,0 +1,16 @@
+@import "components/variables";
+@import "components/header";
+@import "components/fonts";
+@import "components/content";
+@import "components/footer";
+@import "components/media";
+
+body{
+    font-family: $main_font;
+}
+.container{
+    padding: 0;
+}
+.row{
+    margin: 0;
+}

@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800');
+
+
+
+// <----------------------------------------- ICOMOOON  begin------------------------------------------------->
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../../fonts/icomoon.eot?qr1v87');
+    src:  url('../../fonts/icomoon.eot?qr1v87#iefix') format('embedded-opentype'),
+      url('../../fonts/icomoon.ttf?qr1v87') format('truetype'),
+      url('../../fonts/icomoon.woff?qr1v87') format('woff'),
+      url('../../fonts/icomoon.svg?qr1v87#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  [class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-shopping-cart:before {
+    content: "\e901";
+  }
+  .icon-angle-right:before {
+    content: "\e90a";
+  }
+  .icon-angle-down:before {
+    content: "\e909";
+  }
+  .icon-trash:before {
+    content: "\e908";
+  }
+  .icon-feed:before {
+    content: "\e904";
+  }
+  .icon-rss:before {
+    content: "\e904";
+  }
+  .icon-pinterest-p:before {
+    content: "\e905";
+  }
+  .icon-headphones:before {
+    content: "\e906";
+  }
+  .icon-thumbs-up:before {
+    content: "\e907";
+  }
+  .icon-truck:before {
+    content: "\e902";
+  }
+  .icon-commenting:before {
+    content: "\e903";
+  }
+  .icon-SHOPPING_BAG:before {
+    content: "\e900";
+    color: #e24545;
+  }
+  .icon-bubble:before {
+    content: "\e96b";
+  }
+  .icon-google-plus:before {
+    content: "\ea8b";
+  }
+  .icon-facebook:before {
+    content: "\ea90";
+  }
+  .icon-twitter:before {
+    content: "\ea96";
+  }
+  .icon-youtube:before {
+    content: "\ea9d";
+  }
+  .icon-linkedin2:before {
+    content: "\eaca";
+  }
+  // <----------------------------------------- ICOMOOON  END------------------------------------------------->
